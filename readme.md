@@ -48,7 +48,7 @@ for their actions.
 To install Kraken, follow these steps:
 
 ```bash
-git clone https://github.com/jasonxtn/kraken.git
+git clone https://github.com/steerink/kraken.git
 cd Kraken
 pip install -r requirements.txt
 ```
